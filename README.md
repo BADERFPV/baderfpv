@@ -2,7 +2,7 @@
 
 # Hi, I'm Bader 👋
 
-FPV pilot and Arabic FPV technical educator from Kuwait.
+FPV pilot and Arabic FPV technical educator.
 
 ## About Me
 
