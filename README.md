@@ -1,34 +1,83 @@
-
-
 # Hi, I'm Bader 👋
 
-FPV pilot and Arabic FPV technical educator.
+**FPV Pilot • Arabic FPV Technical Educator • Betaflight Contributor**
 
-## About Me
+I create Arabic technical content about FPV drones and contribute to open-source FPV projects through development, testing, localization, and technical education.
 
-- 🎥 I create Arabic educational content about FPV drones
-- 🛠️ Interested in Betaflight, ExpressLRS and ESC firmware
-- 💻 Learning open-source development and GitHub workflows
-- 🚁 FPV racing pilot and technical content creator
+---
 
-## Currently Working On
+## 🚀 Highlights
 
-- Betaflight feature ideas and UI mockups
-- Arabic FPV technical guides
-- Betaflight Configurator contributions
-- ESC and radio-link educational content
+- 🟦 Contributor to **Betaflight Configurator**
+- ✅ **PR #5535 merged into Betaflight `master`**
+- 🌍 Contributed to the **Arabic localization of Betaflight Configurator**
+- 🎥 Creating Arabic technical FPV content
+- 🏁 FPV racing pilot
+- 🔬 Focused on testing, troubleshooting, and technical education
 
-## Technologies & Tools
+---
+
+## 🟦 Betaflight Contributions
+
+### PR #5535 — Highlight AUX Channel Usage in Receiver Tab
+
+Added visual AUX channel states to the Receiver tab
+
+---
+
+### 🌍 Arabic Localization
+
+Contributed to the **Arabic translation and localization of Betaflight Configurator**, helping make Betaflight more accessible to Arabic-speaking FPV pilots.
+
+My goal is to help bridge the gap between open-source FPV development and the Arabic FPV community.
+
+---
+
+## 🔧 Current Focus
+
+- Betaflight Configurator development
+- Arabic localization
+- ExpressLRS
+- Blackbox analysis
+- Receiver and RC systems
+- ESC firmware
+- FPV troubleshooting
+- Arabic technical documentation
+
+---
+
+## 🧰 Technologies & Tools
 
 - Betaflight
 - ExpressLRS
-- Bluejay / BLHeli_
-
+- EdgeTX
+- AM32
+- Bluejay / BLHeli_S
+- Git & GitHub
 - Figma
 - DaVinci Resolve
 
-## Find Me Online
+---
 
-- YouTube: Bader-FPV
-- Instagram: Bader.FPV
-- TikTok: Bader.FPV
+## 🎯 What I Do
+
+I focus on making technical FPV knowledge more accessible to Arabic-speaking pilots through:
+
+- Open-source contributions
+- Arabic localization
+- Technical tutorials
+- Betaflight guides
+- ExpressLRS education
+- Blackbox analysis
+- Hardware troubleshooting
+- Practical testing
+
+---
+
+## 🌍 Mission
+
+Help grow the Arabic FPV community through technical education, localization, practical testing, and open-source contributions.
+
+---
+
+### BADER FPV
