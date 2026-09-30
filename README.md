@@ -1,19 +1,24 @@
 # Hi, I'm Bader 👋
 
-**FPV Pilot • Arabic FPV Technical Educator • Betaflight Contributor**
+FPV Pilot · Arabic FPV Technical Educator · Betaflight & ExpressLRS Contributor
 
-I create Arabic technical content about FPV drones and contribute to open-source FPV projects through development, testing, localization, and technical education.
-
+Focused on FPV technical education, open-source contribution, real-flight testing, and Arabic localization.
 ---
 
 ## 🚀 Highlights
 
-- 🟦 Contributor to **Betaflight Configurator**
-- ✅ **PR #5535 merged into Betaflight `master`**
-- 🌍 Contributed to the **Arabic localization of Betaflight Configurator**
-- 🎥 Creating Arabic technical FPV content
-- 🏁 FPV racing pilot
-- 🔬 Focused on testing, troubleshooting, and technical education
+## Highlights
+
+## 🟦 Betaflight Contributions
+
+## 📡 ExpressLRS Contributions
+
+## 📊 Blackbox Analysis Contributions
+
+## 🛠️ Projects
+
+## 📚 FPV Technical Content
+
 
 ---
 
@@ -21,8 +26,7 @@ I create Arabic technical content about FPV drones and contribute to open-source
 
 ### PR #5535 — Highlight AUX Channel Usage in Receiver Tab
 
-Added visual AUX channel states to the Receiver tab
-
+Improved the Receiver tab by adding clear visual states for AUX channel usage, making channel activity easier to understand and troubleshoot.
 ---
 
 ### 🌍 Arabic Localization
@@ -32,6 +36,25 @@ Contributed to the **Arabic translation and localization of Betaflight Configura
 My goal is to help bridge the gap between open-source FPV development and the Arabic FPV community.
 
 ---
+## 📊 Blackbox Analysis Contributions
+
+### BlackBox CSV Render — PR #193
+
+Contributed real-flight validation and testing for the new **Stick Position & Rate Analysis** feature.
+
+- Tested the feature using a real BBL flight log
+- Verified Direct BBL input and report generation
+- Helped validate stick-zone percentages and Rate Headroom calculations
+- Confirmed fixes after merge into `master`
+- Provided follow-up feedback on documentation consistency
+---
+
+## 📡 ExpressLRS Contributions
+
+### 🌍 Arabic Localization
+
+Contributed to the Arabic translation and localization of ExpressLRS Configurator, helping make the project more accessible to Arabic-speaking FPV pilots.
+
 
 ## 🔧 Current Focus
 
