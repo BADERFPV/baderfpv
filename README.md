@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="gyroghost-orbit-logo.png" alt="GyroGhost" width="700">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="gyroghost-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="gyroghost-logo-light.png">
+    <img src="gyroghost-logo-dark.png" alt="GyroGhost" width="700">
+  </picture>
 </p>
 
 **FPV Pilot · Arabic FPV Technical Educator · Betaflight & ExpressLRS Contributor**
