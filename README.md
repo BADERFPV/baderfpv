@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gyroghost-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="gyroghost-logo-light.png">
-    <img src="gyroghost-logo-dark.png" alt="GyroGhost" width="700">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-dark_1.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-light_1.png">
+    <img src="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-dark_1.png" alt="GyroGhost" width="700">
   </picture>
 </p>
 
