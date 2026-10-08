@@ -7,7 +7,7 @@ Focused on FPV technical education, open-source contribution, real-flight testin
 
 ## 🚀 Highlights
 
-## Highlights
+
 
 ## 🟦 Betaflight Contributions
 
