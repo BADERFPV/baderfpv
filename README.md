@@ -1,4 +1,6 @@
-# Hi, I'm Bader 👋 — GyroGhost
+<p align="center">
+  <img src="gyroghost-orbit-logo.png" alt="GyroGhost" width="700">
+</p>
 
 **FPV Pilot · Arabic FPV Technical Educator · Betaflight & ExpressLRS Contributor**
 
