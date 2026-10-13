@@ -25,8 +25,7 @@ Betaflight Configurator · ExpressLRS Configurator
 
 ## 📊 Blackbox
 
-Real-flight testing for **BlackBox CSV Render** PR #193 (Stick Position & Rate Analysis).
-
+Real-flight testing for [**BlackBox CSV Render** PR #193](https://github.com/nerdCopter/BlackBox_CSV_Render/pull/193) (Stick Position & Rate Analysis) — ✅ Merged
 ## 🛠️ Projects
 
 - [**bader-fpv-tools**](https://github.com/BADERFPV/bader-fpv-tools) — browser-based FPV tools
