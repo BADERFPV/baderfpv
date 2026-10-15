@@ -14,6 +14,7 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 
 | PR | Change | Status |
 | --- | --- | --- |
+| [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search across all tabs | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5555?label=) |
 | [#5677](https://github.com/betaflight/betaflight-configurator/pull/5677) | RTL fix: preset card icons no longer overlap the title | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5677?label=) |
 | [#5672](https://github.com/betaflight/betaflight-configurator/pull/5672) | Visible feedback during legacy magnetometer calibration | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5672?label=) |
 | [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Magnetometer calibration now works more than once | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5659?label=) |
