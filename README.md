@@ -1,44 +1,40 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-dark_1.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-light_1.png">
-    <img src="https://raw.githubusercontent.com/BADERFPV/BADERFPV/main/gyroghost-logo-dark_1.png" alt="GyroGhost" width="700">
-  </picture>
-</p>
+# Hi, I'm Bader 👋
 
-<p align="center"><b>FPV Pilot · Arabic FPV Educator · Betaflight & ExpressLRS Contributor</b></p>
+**FPV pilot · Arabic FPV technical educator · Betaflight & ExpressLRS contributor**
+
+Making FPV technical knowledge accessible to Arabic-speaking pilots through open-source contributions, localization and real-flight testing.
+
+[![Links](https://img.shields.io/badge/gyroghost.github.io-111?style=flat&logo=github&logoColor=white)](https://gyroghost.github.io)
+[![YouTube](https://img.shields.io/badge/YouTube-@bader--fpv-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@bader-fpv)
+[![GyroGhost](https://img.shields.io/badge/org-GyroGhost-555?style=flat&logo=github)](https://github.com/GyroGhost)
 
 ---
 
 ## 🟦 Betaflight Configurator
 
-| PR | What it does | Status |
-|---|---|---|
-| [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | AUX channel usage highlighted in the Receiver tab | ✅ Merged |
-| [#5653](https://github.com/betaflight/betaflight-configurator/pull/5653) | Metric / imperial units in the Flight Plan tab | ✅ Merged |
-| [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search (Ctrl/Cmd + K) | 🟡 Open |
-| [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Fix: compass calibration only worked once | 🟡 Open |
+| PR | Change | Status |
+| --- | --- | --- |
+| [#5677](https://github.com/betaflight/betaflight-configurator/pull/5677) | RTL fix: preset card icons no longer overlap the title | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5677?label=) |
+| [#5672](https://github.com/betaflight/betaflight-configurator/pull/5672) | Visible feedback during legacy magnetometer calibration | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5672?label=) |
+| [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Magnetometer calibration now works more than once | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5659?label=) |
+| [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | Highlight AUX channel usage in the Receiver tab | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5535?label=) |
 
-## 🌍 Arabic Localization
+🌍 **Arabic localization** of Betaflight Configurator.
 
-Betaflight Configurator · ExpressLRS Configurator
+## 📡 ExpressLRS
 
-## 📊 Blackbox
+🌍 **Arabic localization** of ExpressLRS Configurator.
 
-Real-flight testing for [**BlackBox CSV Render** PR #193](https://github.com/nerdCopter/BlackBox_CSV_Render/pull/193) (Stick Position & Rate Analysis) — ✅ Merged
+## 📊 Blackbox Analysis
+
+**BlackBox CSV Render — PR #193:** real-flight validation of the Stick Position & Rate Analysis feature — tested with a real BBL log, verified report generation, stick-zone percentages and Rate Headroom, and confirmed the fixes after merge.
+
 ## 🛠️ Projects
 
-- [**bader-fpv-tools**](https://github.com/BADERFPV/bader-fpv-tools) — browser-based FPV tools
-- [**blackbox-workspaces**](https://github.com/BADERFPV/blackbox-workspaces) — ready-made Blackbox Explorer workspaces
-
-## 📚 Content
-
-Arabic FPV tutorials on YouTube: [**@bader-fpv**](https://www.youtube.com/@bader-fpv)
+- [bader-fpv-tools](https://github.com/BADERFPV/bader-fpv-tools)
+- [blackbox-workspaces](https://github.com/BADERFPV/blackbox-workspaces)
+- [gyroghost.github.io](https://github.com/GyroGhost/gyroghost.github.io)
 
 ## 🧰 Tools
 
-Betaflight · ExpressLRS · EdgeTX · AM32 · Bluejay · Git · Figma · DaVinci Resolve
-
----
-
-<p align="center"><b>GyroGhost</b> · BADER FPV</p>
+Betaflight · ExpressLRS · EdgeTX · AM32 · Bluejay / BLHeli_S · Git · Figma · DaVinci Resolve
