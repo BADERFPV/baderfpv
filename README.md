@@ -14,11 +14,12 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 
 | PR | Change | Status |
 | --- | --- | --- |
-| [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search across all tabs | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5555) |
-| [#5677](https://github.com/betaflight/betaflight-configurator/pull/5677) | RTL fix: preset card icons no longer overlap the title | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5677?label=) |
-| [#5672](https://github.com/betaflight/betaflight-configurator/pull/5672) | Visible feedback during legacy magnetometer calibration | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5672?label=) |
-| [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Magnetometer calibration now works more than once | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5659?label=) |
-| [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | Highlight AUX channel usage in the Receiver tab | ![](https://img.shields.io/github/pulls/detail/state/betaflight/betaflight-configurator/5535?label=) |
+| [#5681](https://github.com/betaflight/betaflight-configurator/pull/5681) | OSD element showing active USER1–USER4 modes | ![](https://img.shields.io/badge/draft-6e7681) |
+| [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search across all tabs | ![](https://img.shields.io/badge/open-2ea44f) |
+| [#5677](https://github.com/betaflight/betaflight-configurator/pull/5677) | RTL fix: preset card icons no longer overlap the title | ![](https://img.shields.io/badge/merged-8250df) |
+| [#5672](https://github.com/betaflight/betaflight-configurator/pull/5672) | Visible feedback during legacy magnetometer calibration | ![](https://img.shields.io/badge/open-2ea44f) |
+| [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Magnetometer calibration now works more than once | ![](https://img.shields.io/badge/open-2ea44f) |
+| [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | Highlight AUX channel usage in the Receiver tab | ![](https://img.shields.io/badge/merged-8250df) |
 
 🌍 **Arabic localization** of Betaflight Configurator.
 
