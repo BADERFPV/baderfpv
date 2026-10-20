@@ -1,4 +1,4 @@
-# Hi, I'm Bader 👋
+ # Hi, I'm GyroGhost 👻👋
 
 **FPV pilot · Arabic FPV technical educator · Betaflight & ExpressLRS contributor**
 
