@@ -1,0 +1,15 @@
+{
+  "betaflight/betaflight-configurator": {
+    "5709": "Light mode fix: higher contrast for primary soft buttons",
+    "5699": "RTL fix: graph axis labels stay outside the plot (Motors, Receiver, Sensors)",
+    "5682": "Linux fix: invisible SAVE toolbar (WebKitGTK DMA-BUF renderer)",
+    "5681": "OSD element showing active USER1–USER4 modes",
+    "5677": "RTL fix: preset card icons no longer overlap the title",
+    "5672": "Visible feedback during legacy magnetometer calibration",
+    "5659": "Magnetometer calibration now works more than once",
+    "5653": "Metric / imperial units selector in the Flight Plan tab",
+    "5555": "Global settings search across all tabs",
+    "5535": "Highlight AUX channel usage in the Receiver tab"
+  },
+  "ExpressLRS/ExpressLRS-Configurator": {}
+}

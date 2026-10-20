@@ -12,21 +12,15 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 
 ## 🟦 Betaflight Configurator
 
-| PR | Change | Status |
-| --- | --- | --- |
-| [#5699](https://github.com/betaflight/betaflight-configurator/pull/5699) | RTL fix: graph axis labels stay outside the plot (Motors, Receiver, Sensors) | ![](https://img.shields.io/badge/merged-8250df) |
-| [#5682](https://github.com/betaflight/betaflight-configurator/pull/5682) | Linux fix: invisible SAVE toolbar (WebKitGTK DMA-BUF renderer) | ![](https://img.shields.io/badge/open-2ea44f) |
-| [#5681](https://github.com/betaflight/betaflight-configurator/pull/5681) | OSD element showing active USER1–USER4 modes | ![](https://img.shields.io/badge/draft-6e7681) |
-| [#5677](https://github.com/betaflight/betaflight-configurator/pull/5677) | RTL fix: preset card icons no longer overlap the title | ![](https://img.shields.io/badge/merged-8250df) |
-| [#5672](https://github.com/betaflight/betaflight-configurator/pull/5672) | Visible feedback during legacy magnetometer calibration | ![](https://img.shields.io/badge/open-2ea44f) |
-| [#5659](https://github.com/betaflight/betaflight-configurator/pull/5659) | Magnetometer calibration now works more than once | ![](https://img.shields.io/badge/open-2ea44f) |
-| [#5653](https://github.com/betaflight/betaflight-configurator/pull/5653) | Metric / imperial units selector in the Flight Plan tab | ![](https://img.shields.io/badge/merged-8250df) |
-| [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search across all tabs | ![](https://img.shields.io/badge/merged-8250df) |
-| [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | Highlight AUX channel usage in the Receiver tab | ![](https://img.shields.io/badge/merged-8250df) |
-| [#5709](https://github.com/betaflight/betaflight-configurator/pull/5709) | Light mode fix: higher contrast for primary soft buttons | merged |
+<!-- PRS:betaflight/betaflight-configurator:START -->
+<!-- PRS:betaflight/betaflight-configurator:END -->
+
 🌍 **Arabic localization** of Betaflight Configurator.
 
 ## 📡 ExpressLRS
+
+<!-- PRS:ExpressLRS/ExpressLRS-Configurator:START -->
+<!-- PRS:ExpressLRS/ExpressLRS-Configurator:END -->
 
 🌍 **Arabic localization** of ExpressLRS Configurator.
 
