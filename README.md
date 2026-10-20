@@ -23,7 +23,7 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 | [#5653](https://github.com/betaflight/betaflight-configurator/pull/5653) | Metric / imperial units selector in the Flight Plan tab | ![](https://img.shields.io/badge/merged-8250df) |
 | [#5555](https://github.com/betaflight/betaflight-configurator/pull/5555) | Global settings search across all tabs | ![](https://img.shields.io/badge/merged-8250df) |
 | [#5535](https://github.com/betaflight/betaflight-configurator/pull/5535) | Highlight AUX channel usage in the Receiver tab | ![](https://img.shields.io/badge/merged-8250df) |
-
+| [#5709](https://github.com/betaflight/betaflight-configurator/pull/5709) | Light mode fix: higher contrast for primary soft buttons | merged |
 🌍 **Arabic localization** of Betaflight Configurator.
 
 ## 📡 ExpressLRS
