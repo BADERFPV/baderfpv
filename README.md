@@ -31,6 +31,14 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 
 🌍 **Arabic localization** of Betaflight Configurator.
 
+<details>
+<summary><b>🛩️ Betaflight Firmware</b></summary>
+
+<!-- PRS:betaflight/betaflight:START -->
+<!-- PRS:betaflight/betaflight:END -->
+
+</details>
+
 ## 📡 ExpressLRS
 
 <!-- PRS:ExpressLRS/ExpressLRS-Configurator:START -->
