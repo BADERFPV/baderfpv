@@ -35,6 +35,10 @@ Making FPV technical knowledge accessible to Arabic-speaking pilots through open
 <summary><b>🛩️ Betaflight Firmware</b></summary>
 
 <!-- PRS:betaflight/betaflight:START -->
+| PR | Change | Status |
+| --- | --- | --- |
+| [#15898](https://github.com/betaflight/betaflight/pull/15898) | Fix osd_uart lost on legacy MSP + VTX_MSP builds without VTX | ![](https://img.shields.io/badge/open-2ea44f) |
+| [#15846](https://github.com/betaflight/betaflight/pull/15846) | OSD element showing active USER1–USER4 modes | ![](https://img.shields.io/badge/open-2ea44f) |
 <!-- PRS:betaflight/betaflight:END -->
 
 </details>
