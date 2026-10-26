@@ -20,6 +20,7 @@ from pathlib import Path
 AUTHOR = "BADERFPV"
 REPOS = [
     "betaflight/betaflight-configurator",
+        "betaflight/betaflight",
     "ExpressLRS/ExpressLRS-Configurator",
 ]
 SHOW_CLOSED_UNMERGED = False
