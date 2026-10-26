@@ -11,5 +11,9 @@
     "5555": "Global settings search across all tabs",
     "5535": "Highlight AUX channel usage in the Receiver tab"
   },
+    "betaflight/betaflight": {
+    "15898": "Fix osd_uart lost on legacy MSP + VTX_MSP builds without VTX",
+    "15846": "OSD element showing active USER1–USER4 modes"
+  },
   "ExpressLRS/ExpressLRS-Configurator": {}
 }
