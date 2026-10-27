@@ -1,5 +1,7 @@
 {
   "betaflight/betaflight-configurator": {
+    "5727": "Feature ports marked clean only after a successful EEPROM write",
+    "5716": "Warning before leaving a tab with unsaved changes",
     "5709": "Light mode fix: higher contrast for primary soft buttons",
     "5699": "RTL fix: graph axis labels stay outside the plot (Motors, Receiver, Sensors)",
     "5682": "Linux fix: invisible SAVE toolbar (WebKitGTK DMA-BUF renderer)",
@@ -11,7 +13,7 @@
     "5555": "Global settings search across all tabs",
     "5535": "Highlight AUX channel usage in the Receiver tab"
   },
-    "betaflight/betaflight": {
+  "betaflight/betaflight": {
     "15898": "Fix osd_uart lost on legacy MSP + VTX_MSP builds without VTX",
     "15846": "OSD element showing active USER1–USER4 modes"
   },
